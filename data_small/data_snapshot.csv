@@ -1,0 +1,6 @@
+dataset,source,detail,snapshot_date
+GISTDA flood maps,disaster.gistda.or.th,386 maps listed; in window 57/97/82 (2024/25/26),2026-11-14
+CHIRPS v3 daily rain,data.chc.ucsb.edu,522 days; 1 May to 21 Oct,2026-11-14
+HydroRIVERS / HydroBASINS v1,hydrosheds.org,"Asia; basin levels 4, 5, 6, 8",2026-11-14
+Copernicus DEM 30 m,Planetary Computer,read in notebook 03,-
+JRC Global Surface Water,Planetary Computer,read in notebook 03,-
