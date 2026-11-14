@@ -1,0 +1,43 @@
+# ---- Large data never goes in git (it lives in /data9/G5120/work/<user>/flood_data) ----
+data/
+*.tif
+*.tiff
+*.nc
+*.zip
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.gpkg
+*.npy
+
+# Small, curated files in data_small/ ARE tracked (model table, dated file lists)
+!data_small/
+!data_small/**
+
+# ---- Python / Jupyter clutter ----
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+flood-env/
+
+# ---- Logs and scratch ----
+logs/
+*.log
+scratch/
+*.tmp
+
+# ---- OS / editor ----
+.DS_Store
+.vscode/
+.idea/
+
+# ---- Secrets (never commit) ----
+.env
+*.key
+*token*

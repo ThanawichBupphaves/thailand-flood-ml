@@ -1,0 +1,20 @@
+# Core packages for this project (Python 3.11).
+# After the environment works, also save the exact versions with:
+#   pip freeze > requirements-lock.txt
+numpy
+pandas
+pyarrow
+scipy
+xarray
+netCDF4
+rasterio
+rioxarray
+geopandas
+shapely>=2.0
+pyproj
+scikit-learn>=1.4
+matplotlib
+requests
+pystac-client
+planetary-computer
+ipykernel
