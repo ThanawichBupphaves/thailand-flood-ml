@@ -57,7 +57,7 @@ python -m ipykernel install --user --name flood-env --display-name "Python (floo
 
 ### 2. Tell the code where the big data should go (full run only)
 
-Raw data is several GB and is not stored in this repo. By default it goes to `/data9/G5120/work/tb3203/flood_data`. To use another folder:
+Raw data is several GB and is not stored in this repo. By default it goes to `/data9/CLMT5120/work/tb3203/flood_data`. To use another folder:
 
 ```bash
 export FLOOD_DATA_DIR=/path/to/flood_data
