@@ -1,0 +1,15 @@
+scheme,fold,model,best
+A season,2024,ridge,{'model__alpha': 1000}
+A season,2024,forest,"{'max_features': 0.33, 'min_samples_leaf': 5}"
+A season,2025,ridge,{'model__alpha': 1000}
+A season,2025,forest,"{'max_features': 0.66, 'min_samples_leaf': 50}"
+A season,2026,ridge,{'model__alpha': 10000}
+A season,2026,forest,"{'max_features': 0.66, 'min_samples_leaf': 200}"
+B region,R1,ridge,{'model__alpha': 1000}
+B region,R1,forest,"{'max_features': 0.33, 'min_samples_leaf': 20}"
+B region,R2,ridge,{'model__alpha': 1000}
+B region,R2,forest,"{'max_features': 0.33, 'min_samples_leaf': 5}"
+B region,R3,ridge,{'model__alpha': 100000}
+B region,R3,forest,"{'max_features': 0.66, 'min_samples_leaf': 5}"
+B region,R4,ridge,{'model__alpha': 100000}
+B region,R4,forest,"{'max_features': 0.33, 'min_samples_leaf': 5}"

@@ -1,0 +1,9 @@
+subset,method,AP,base_rate
+All square-seasons (scheme A),usual,0.706,0.131
+All square-seasons (scheme A),elevation,0.439,0.131
+All square-seasons (scheme A),ridge,0.701,0.131
+All square-seasons (scheme A),forest,0.705,0.131
+Normally-dry squares only (usual < 1%),usual,0.044,0.028
+Normally-dry squares only (usual < 1%),elevation,0.254,0.028
+Normally-dry squares only (usual < 1%),ridge,0.073,0.028
+Normally-dry squares only (usual < 1%),forest,0.124,0.028

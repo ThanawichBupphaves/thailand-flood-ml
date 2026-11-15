@@ -1,0 +1,12 @@
+,method,RMSE_mean,RMSE_sd,bias_mean,skill_mean,skill_min,skill_max
+A season hold-out,never,0.1104,0.012,-0.0331,-2.8934,-4.1143,-0.9617
+A season hold-out,constant,0.1056,0.0106,0.0,-2.5492,-3.6122,-0.8251
+A season hold-out,elevation,0.1014,0.0106,0.0033,-2.2783,-3.2672,-0.6582
+A season hold-out,usual,0.0588,0.0113,-0.0,0.0,0.0,0.0
+A season hold-out,ridge,0.062,0.008,0.0049,-0.1381,-0.3389,0.0631
+A season hold-out,forest,0.0637,0.0039,0.0046,-0.2279,-0.415,0.1161
+B region hold-out,never,0.0806,0.0639,-0.0279,0.166,-0.0552,0.5517
+B region hold-out,constant,0.0848,0.0571,0.0057,0.0,0.0,0.0
+B region hold-out,elevation,0.0819,0.0573,0.003,0.0871,-0.0592,0.2844
+B region hold-out,ridge,0.0748,0.0508,0.002,0.2256,0.0947,0.455
+B region hold-out,forest,0.0676,0.0518,-0.0058,0.4028,0.2762,0.6672
