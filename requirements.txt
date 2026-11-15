@@ -17,4 +17,6 @@ matplotlib
 requests
 pystac-client
 planetary-computer
+odc-stac
+dask
 ipykernel

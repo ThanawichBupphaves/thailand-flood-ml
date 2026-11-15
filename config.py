@@ -46,5 +46,7 @@ MIN_COVER_PASSES = 5                         # keep squares seen >= 5 times ever
 
 RANDOM_STATE = 42                            # one seed for everything
 
+GISTDA_SNAPSHOT = "2026-11-14"               # data freeze date (notebook 01)
+
 for _d in (SMALL_DIR, RESULTS_DIR, FIG_DIR):
     _d.mkdir(exist_ok=True)
