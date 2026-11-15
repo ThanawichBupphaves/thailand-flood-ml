@@ -1,0 +1,24 @@
+feature,group,meaning
+rain_early,rain (square),"Rain at the square, 1 May to 3 Aug (mm)"
+rain_window,rain (square),"Rain at the square, 4 Aug to 21 Oct (mm)"
+rain_aug,rain (square),August rain (mm)
+rain_sep,rain (square),September rain (mm)
+rain_oct,rain (square),Rain 1 to 21 Oct (mm)
+max_1d,rain (square),Wettest day in the window (mm)
+max_3d,rain (square),Wettest 3 days ending in the window (mm)
+max_7d,rain (square),Wettest 7 days ending in the window (mm)
+heavy_days,rain (square),Days in the window with at least 20 mm
+up_rain_window,rain (upstream),"Area-weighted rain over everything upstream, window (mm)"
+up_rain_early,rain (upstream),"Area-weighted rain over everything upstream, 1 May to 3 Aug (mm)"
+up_coverage,rain (upstream),Share of the upstream area inside the rain data (0 to 1)
+log_up_area,rivers,log10 of the area draining through the square's basin (km2)
+dist_riv_any_km,rivers,Distance to the nearest river (km)
+dist_riv_1k_km,rivers,"Distance to a river draining at least 1,000 km2 (km)"
+dist_riv_10k_km,rivers,"Distance to a river draining at least 10,000 km2 (km)"
+log_upland_nearest,rivers,log10 upstream area of the nearest river (km2)
+elev_mean,terrain,Mean elevation (m)
+elev_p05,terrain,Elevation of the lowest 5% of the square (m)
+elev_std,terrain,Standard deviation of elevation within the square (m)
+slope_mean,terrain,Mean slope (degrees)
+low_share,terrain,Share of the square within 2 m of its lowest 5%
+rel_height,terrain,Mean elevation minus the lowest ground within about 12 km (m)
