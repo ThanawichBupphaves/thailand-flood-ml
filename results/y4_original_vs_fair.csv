@@ -1,0 +1,24 @@
+scheme,method,fold,original,fair (5 looks),change
+A season,RMSE of usual,2024,0.05,0.037,-0.013
+A season,RMSE of usual,2025,0.055,0.038,-0.017
+A season,RMSE of usual,2026,0.072,0.052,-0.02
+A season,RMSE of never flooded,2024,0.108,0.078,-0.03
+A season,RMSE of never flooded,2025,0.124,0.089,-0.035
+A season,RMSE of never flooded,2026,0.1,0.072,-0.028
+A season,skill: usual x one number,2024,-0.057,-0.045,0.012
+A season,skill: usual x one number,2025,-0.442,-0.521,-0.079
+A season,skill: usual x one number,2026,0.125,0.122,-0.003
+A season,skill: ridge,2024,-0.139,0.036,0.175
+A season,skill: ridge,2025,-0.339,-0.141,0.198
+A season,skill: ridge,2026,0.063,0.063,0.0
+A season,skill: forest,2024,-0.415,-0.443,-0.028
+A season,skill: forest,2025,-0.385,-0.393,-0.008
+A season,skill: forest,2026,0.116,0.07,-0.046
+B region,skill: ridge,R1,0.226,0.143,-0.083
+B region,skill: ridge,R2,0.455,0.408,-0.047
+B region,skill: ridge,R3,0.126,0.105,-0.021
+B region,skill: ridge,R4,0.095,0.1,0.005
+B region,skill: forest,R1,0.285,0.197,-0.088
+B region,skill: forest,R2,0.667,0.64,-0.027
+B region,skill: forest,R3,0.276,0.225,-0.051
+B region,skill: forest,R4,0.382,0.366,-0.016

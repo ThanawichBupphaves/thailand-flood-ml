@@ -75,6 +75,7 @@ export FLOOD_DATA_DIR=/path/to/flood_data
 | `03_build_features.ipynb` | Rain, upstream rain, rivers and terrain; writes the model table | about 15 min | Yes |
 | **`04_main_analysis.ipynb`** | **Baselines, season and region hold-out, tuned ridge and random forest, uncertainty, events, interpretation** | about 20 min (2 min with `FAST = True`) | **No** |
 | `05_stress_tests_and_extensions.ipynb` | Tries to break the main results (fair history, what the 2026 gain is made of, region robustness), then boosting with physics constraints, a two-step warning model, quantile uncertainty, an unusual-inputs flag and a small network | about 15 min | No |
+| `06_fair_label.ipynb` | Rebuilds the flood label as if every cell had been photographed exactly 5 times, then reruns the key results to see whether uneven satellite coverage distorts them | about 10 min | Only step 2 (the result is saved in `data_small/`) |
 
 Figures in the paper are saved to `figures/` and tables to `results/`.
 

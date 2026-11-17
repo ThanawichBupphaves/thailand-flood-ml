@@ -1,0 +1,70 @@
+scheme,fold,method,value,label
+A season,2024,RMSE of usual,0.05011118320228092,original
+A season,2024,RMSE of never flooded,0.10752512745737955,original
+A season,2024,skill: usual x one number,-0.05665604111338185,original
+A season,2024,skill: ridge,-0.1385372049156144,original
+A season,2024,skill: forest,-0.41504869982087067,original
+A season,2025,RMSE of usual,0.054655447962190004,original
+A season,2025,RMSE of never flooded,0.12360213886400355,original
+A season,2025,skill: usual x one number,-0.44248388325627075,original
+A season,2025,skill: ridge,-0.33887577363726895,original
+A season,2025,skill: forest,-0.38489151038970437,original
+A season,2026,RMSE of usual,0.07154993545569514,original
+A season,2026,RMSE of never flooded,0.1002141639754503,original
+A season,2026,skill: usual x one number,0.1254839151422371,original
+A season,2026,skill: ridge,0.06305492678885405,original
+A season,2026,skill: forest,0.11610421474584809,original
+B region,R1,skill: ridge,0.22645698767516886,original
+B region,R1,skill: forest,0.28526733669259785,original
+B region,R2,skill: ridge,0.455023461255036,original
+B region,R2,skill: forest,0.6672155481211751,original
+B region,R3,skill: ridge,0.12606769895772207,original
+B region,R3,skill: forest,0.276165371001877,original
+B region,R4,skill: ridge,0.0947229830700157,original
+B region,R4,skill: forest,0.38248495289474094,original
+A season,2024,RMSE of usual,0.03725920406583488,fair (5 looks)
+A season,2024,RMSE of never flooded,0.07808071056835088,fair (5 looks)
+A season,2024,skill: usual x one number,-0.044727003096186824,fair (5 looks)
+A season,2024,skill: ridge,0.035622960085999744,fair (5 looks)
+A season,2024,skill: forest,-0.44276095491566747,fair (5 looks)
+A season,2025,RMSE of usual,0.03769881170375518,fair (5 looks)
+A season,2025,RMSE of never flooded,0.08858935619589307,fair (5 looks)
+A season,2025,skill: usual x one number,-0.5208908742661691,fair (5 looks)
+A season,2025,skill: ridge,-0.1409650613836071,fair (5 looks)
+A season,2025,skill: forest,-0.39278296768483445,fair (5 looks)
+A season,2026,RMSE of usual,0.051769776653817136,fair (5 looks)
+A season,2026,RMSE of never flooded,0.0722819658825561,fair (5 looks)
+A season,2026,skill: usual x one number,0.12157610832756804,fair (5 looks)
+A season,2026,skill: ridge,0.0630623208068124,fair (5 looks)
+A season,2026,skill: forest,0.07000231329925477,fair (5 looks)
+B region,R1,skill: ridge,0.14304053866534217,fair (5 looks)
+B region,R1,skill: forest,0.19672285134177891,fair (5 looks)
+B region,R2,skill: ridge,0.4077401993133031,fair (5 looks)
+B region,R2,skill: forest,0.6401767558820199,fair (5 looks)
+B region,R3,skill: ridge,0.10461255195409758,fair (5 looks)
+B region,R3,skill: forest,0.22529116889091938,fair (5 looks)
+B region,R4,skill: ridge,0.0999605788727983,fair (5 looks)
+B region,R4,skill: forest,0.36588027544437407,fair (5 looks)
+A season,2024,RMSE of usual,0.04227783720814595,fair (8 looks)
+A season,2024,RMSE of never flooded,0.09480058179943741,fair (8 looks)
+A season,2024,skill: usual x one number,-0.12889807510807127,fair (8 looks)
+A season,2024,skill: ridge,0.015569258349670378,fair (8 looks)
+A season,2024,skill: forest,-0.3267905428168709,fair (8 looks)
+A season,2025,RMSE of usual,0.041634978457754185,fair (8 looks)
+A season,2025,RMSE of never flooded,0.10221173496457757,fair (8 looks)
+A season,2025,skill: usual x one number,-0.46877404079380525,fair (8 looks)
+A season,2025,skill: ridge,-0.12873758130924662,fair (8 looks)
+A season,2025,skill: forest,-0.33337744673971326,fair (8 looks)
+A season,2026,RMSE of usual,0.05987629604343632,fair (8 looks)
+A season,2026,RMSE of never flooded,0.08563887428691097,fair (8 looks)
+A season,2026,skill: usual x one number,0.1068599947976504,fair (8 looks)
+A season,2026,skill: ridge,0.05540601551702784,fair (8 looks)
+A season,2026,skill: forest,0.059750871211409984,fair (8 looks)
+B region,R1,skill: ridge,0.17156525703183467,fair (8 looks)
+B region,R1,skill: forest,0.24921125137665168,fair (8 looks)
+B region,R2,skill: ridge,0.4333930083892201,fair (8 looks)
+B region,R2,skill: forest,0.6580456436605442,fair (8 looks)
+B region,R3,skill: ridge,0.11947480106690578,fair (8 looks)
+B region,R3,skill: forest,0.2680704150720763,fair (8 looks)
+B region,R4,skill: ridge,0.1069560218133111,fair (8 looks)
+B region,R4,skill: forest,0.3983321309267376,fair (8 looks)
