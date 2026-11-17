@@ -1,0 +1,12 @@
+,method,min,max
+A season hold-out,constant,-3.612,-0.825
+A season hold-out,elevation,-3.267,-0.658
+A season hold-out,forest,-0.415,0.116
+A season hold-out,never,-4.114,-0.962
+A season hold-out,ridge,-0.339,0.063
+A season hold-out,usual,0.0,0.0
+B region hold-out,constant,0.0,0.0
+B region hold-out,elevation,-0.059,0.284
+B region hold-out,forest,0.276,0.667
+B region hold-out,never,-0.055,0.552
+B region hold-out,ridge,0.095,0.455
