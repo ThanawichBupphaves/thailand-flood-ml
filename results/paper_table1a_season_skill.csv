@@ -1,0 +1,9 @@
+method,2024,2025,2026
+never flooded,-3.6,-4.11,-0.96
+one constant,-3.21,-3.61,-0.83
+elevation only (linear),-2.91,-3.27,-0.66
+usual (persistence),0.0,0.0,0.0
+ridge regression,-0.14,-0.34,0.06
+random forest,-0.42,-0.38,0.12
+usual x one number,-0.06,-0.44,0.12
+boosting + physics,-0.28,-0.41,0.05
