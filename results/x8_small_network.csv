@@ -1,0 +1,8 @@
+scheme,fold,network_min,network_max,best_of_ridge_forest
+A season (skill vs usual),2024,-5.874,-1.953,-0.139
+A season (skill vs usual),2025,-1.576,-1.256,-0.339
+A season (skill vs usual),2026,-0.472,-0.045,0.116
+B region (skill vs constant),R1,0.011,0.331,0.285
+B region (skill vs constant),R2,-0.077,0.274,0.667
+B region (skill vs constant),R3,-0.645,0.288,0.276
+B region (skill vs constant),R4,-1.465,-0.422,0.382

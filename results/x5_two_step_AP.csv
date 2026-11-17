@@ -1,0 +1,31 @@
+subset,season,method,AP,base_rate
+all squares,2024,usual,0.787,0.127
+all squares,2024,low ground only (-rel_height),0.582,0.127
+all squares,2024,forest amount,0.771,0.127
+all squares,2024,boosting amount,0.757,0.127
+all squares,2024,two-step: P(flood),0.774,0.127
+all squares,2025,usual,0.761,0.158
+all squares,2025,low ground only (-rel_height),0.587,0.158
+all squares,2025,forest amount,0.727,0.158
+all squares,2025,boosting amount,0.693,0.158
+all squares,2025,two-step: P(flood),0.742,0.158
+all squares,2026,usual,0.618,0.108
+all squares,2026,low ground only (-rel_height),0.625,0.108
+all squares,2026,forest amount,0.67,0.108
+all squares,2026,boosting amount,0.647,0.108
+all squares,2026,two-step: P(flood),0.593,0.108
+normally-dry squares (usual < 1%),2024,usual,0.04,0.01
+normally-dry squares (usual < 1%),2024,low ground only (-rel_height),0.139,0.01
+normally-dry squares (usual < 1%),2024,forest amount,0.134,0.01
+normally-dry squares (usual < 1%),2024,boosting amount,0.16,0.01
+normally-dry squares (usual < 1%),2024,two-step: P(flood),0.123,0.01
+normally-dry squares (usual < 1%),2025,usual,0.086,0.035
+normally-dry squares (usual < 1%),2025,low ground only (-rel_height),0.17,0.035
+normally-dry squares (usual < 1%),2025,forest amount,0.128,0.035
+normally-dry squares (usual < 1%),2025,boosting amount,0.112,0.035
+normally-dry squares (usual < 1%),2025,two-step: P(flood),0.159,0.035
+normally-dry squares (usual < 1%),2026,usual,0.046,0.039
+normally-dry squares (usual < 1%),2026,low ground only (-rel_height),0.354,0.039
+normally-dry squares (usual < 1%),2026,forest amount,0.204,0.039
+normally-dry squares (usual < 1%),2026,boosting amount,0.132,0.039
+normally-dry squares (usual < 1%),2026,two-step: P(flood),0.117,0.039

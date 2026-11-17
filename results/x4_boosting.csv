@@ -1,0 +1,29 @@
+scheme,fold,method,skill
+A season (skill vs usual),2024,boosting,-0.26
+A season (skill vs usual),2024,boosting + physics,-0.283
+A season (skill vs usual),2024,ridge,-0.139
+A season (skill vs usual),2024,forest,-0.415
+A season (skill vs usual),2025,boosting,-0.391
+A season (skill vs usual),2025,boosting + physics,-0.41
+A season (skill vs usual),2025,ridge,-0.339
+A season (skill vs usual),2025,forest,-0.385
+A season (skill vs usual),2026,boosting,0.017
+A season (skill vs usual),2026,boosting + physics,0.052
+A season (skill vs usual),2026,ridge,0.063
+A season (skill vs usual),2026,forest,0.116
+B region (skill vs constant),R1,boosting,0.312
+B region (skill vs constant),R1,boosting + physics,0.337
+B region (skill vs constant),R1,ridge,0.226
+B region (skill vs constant),R1,forest,0.285
+B region (skill vs constant),R2,boosting,0.68
+B region (skill vs constant),R2,boosting + physics,0.677
+B region (skill vs constant),R2,ridge,0.455
+B region (skill vs constant),R2,forest,0.667
+B region (skill vs constant),R3,boosting,0.243
+B region (skill vs constant),R3,boosting + physics,0.26
+B region (skill vs constant),R3,ridge,0.126
+B region (skill vs constant),R3,forest,0.276
+B region (skill vs constant),R4,boosting,0.425
+B region (skill vs constant),R4,boosting + physics,0.434
+B region (skill vs constant),R4,ridge,0.095
+B region (skill vs constant),R4,forest,0.382

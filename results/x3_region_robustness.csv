@@ -1,0 +1,17 @@
+setup,fold,train_squares,forest_skill_vs_constant
+"basins, 10 km buffer",R1,2519,0.328
+"basins, 10 km buffer",R2,2878,0.667
+"basins, 10 km buffer",R3,3452,0.278
+"basins, 10 km buffer",R4,2604,0.382
+"basins, 25 km buffer",R1,2449,0.331
+"basins, 25 km buffer",R2,2614,0.693
+"basins, 25 km buffer",R3,3200,0.294
+"basins, 25 km buffer",R4,2411,0.428
+"basins, 50 km buffer",R1,2342,0.328
+"basins, 50 km buffer",R2,2161,0.74
+"basins, 50 km buffer",R3,2744,0.326
+"basins, 50 km buffer",R4,2106,0.437
+"k-means regions, 10 km buffer",K1,3392,0.406
+"k-means regions, 10 km buffer",K2,2780,0.263
+"k-means regions, 10 km buffer",K3,2612,0.451
+"k-means regions, 10 km buffer",K4,2784,0.431

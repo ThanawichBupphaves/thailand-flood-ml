@@ -1,0 +1,10 @@
+miss_costs,warn_above,season,floods,misses,false_alarms,surprise_floods_caught
+1x a false alarm,0.5,2024,503,186,121,1 of 30
+1x a false alarm,0.5,2025,629,306,121,2 of 107
+1x a false alarm,0.5,2026,430,180,244,0 of 117
+3x a false alarm,0.25,2024,503,95,336,11 of 30
+3x a false alarm,0.25,2025,629,213,276,16 of 107
+3x a false alarm,0.25,2026,430,150,427,0 of 117
+10x a false alarm,0.09,2024,503,34,654,19 of 30
+10x a false alarm,0.09,2025,629,103,479,50 of 107
+10x a false alarm,0.09,2026,430,118,676,6 of 117

@@ -1,0 +1,16 @@
+season,method,skill_vs_usual,anomaly_corr,mean_pred
+2024,oracle: usual rescaled to the true season mean (cheats),0.036,,0.032
+2024,ridge (history-matched),-0.139,0.172,0.041
+2024,forest (history-matched),-0.365,0.077,0.046
+2024,(observed mean | usual mean),,,0.032
+2024,(usual mean),,,0.034
+2025,oracle: usual rescaled to the true season mean (cheats),-0.06,,0.04
+2025,ridge (history-matched),-0.339,-0.195,0.036
+2025,forest (history-matched),-0.312,-0.177,0.029
+2025,(observed mean | usual mean),,,0.04
+2025,(usual mean),,,0.03
+2026,oracle: usual rescaled to the true season mean (cheats),0.22,,0.028
+2026,ridge (history-matched),0.063,0.517,0.037
+2026,forest (history-matched),0.112,0.442,0.038
+2026,(observed mean | usual mean),,,0.028
+2026,(usual mean),,,0.036
