@@ -8,6 +8,9 @@ Season hold-out: forest skill vs usual,2024 / 2025 / 2026,main result,-0.42 / -0
 ,,equal-coverage label (5 looks),-0.44 / -0.39 / +0.07
 ,,1-pass label rule,-0.14 / -0.25 / +0.13
 Region hold-out: forest skill vs one constant,R1 / R2 / R3 / R4,main result,+0.29 / +0.67 / +0.28 / +0.38
+,,"main result, 95% range (50 km block bootstrap)",+0.26 to +0.31 / +0.56 to +0.80 / +0.17 to +0.63 / +0.21 to +0.52
+,,forest against the best simple baseline in each region,+0.26 / +0.26 / +0.21 / +0.23
+,,"the same, 95% range (50 km block bootstrap)",+0.22 to +0.28 / -0.03 to +0.38 / +0.14 to +0.42 / -0.53 to +0.42
 ,,"10 km buffer, one fixed forest setting (reference for the next three rows)",+0.33 / +0.67 / +0.28 / +0.38
 ,,25 km buffer,+0.33 / +0.69 / +0.29 / +0.43
 ,,50 km buffer,+0.33 / +0.74 / +0.33 / +0.44

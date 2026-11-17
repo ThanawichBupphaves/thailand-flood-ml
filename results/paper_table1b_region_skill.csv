@@ -5,3 +5,4 @@ elevation only (linear),0.04,0.28,0.09,-0.06
 ridge regression,0.23,0.46,0.13,0.09
 random forest,0.29,0.67,0.28,0.38
 boosting + physics,0.34,0.68,0.26,0.43
+random forest vs best simple baseline,0.26,0.26,0.21,0.23
